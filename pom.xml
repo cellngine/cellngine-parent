@@ -5,4 +5,12 @@
 	<artifactId>cellngine-parent</artifactId>
 	<version>1.0.0</version>
 	<packaging>pom</packaging>
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.cellngine</groupId>
+			<artifactId>cellngine-shared</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
